@@ -4,4 +4,5 @@ all:
 
 publish: all
 	@git commit -am"Updates styles"
+	@git push
 
